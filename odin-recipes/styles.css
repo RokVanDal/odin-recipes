@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: red;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+a{
+    margin: 10px;
+    color: chocolate;
+    font-size: 20px;
+}
